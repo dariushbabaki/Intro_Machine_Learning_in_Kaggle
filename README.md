@@ -1,5 +1,5 @@
 
-## Intro to Machine Learning in Kaggle 
+# Intro to Machine Learning in Kaggle 
 
 1. [How Models Work](https://www.kaggle.com/dansbecker/how-models-work)   
 The first step if you're new to machine learning.

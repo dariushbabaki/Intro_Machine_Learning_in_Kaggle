@@ -33,4 +33,4 @@ Enter the world of machine learning competitions to keep improving and see your 
 I finished this course on December 13, 2024.
 The picture below shows my certificate after completing all the assignments:
 
-![Intro Machine Learning in Kaggle](image/intro%20to%20machine%20learning.png)
+![Intro_Machine_Learning_in_Kaggle](image/intro%20to%20machine%20learning.png)

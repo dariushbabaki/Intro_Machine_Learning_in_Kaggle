@@ -1,5 +1,8 @@
+Kaggle Intro to Machine Learning — 2024 Solutions 
+=====================
 
-# Intro to Machine Learning in Kaggle 
+-   [Course Link](https://www.kaggle.com/learn/intro-to-machine-learning)
+-   [My Certificate](https://www.kaggle.com/learn/certification/dariushbabaki/intro-to-machine-learning)
 
 1. [How Models Work](https://www.kaggle.com/dansbecker/how-models-work)   
 The first step if you're new to machine learning.

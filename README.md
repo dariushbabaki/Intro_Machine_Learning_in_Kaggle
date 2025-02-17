@@ -33,4 +33,4 @@ Enter the world of machine learning competitions to keep improving and see your 
 I finished this course on December 13, 2024.
 The picture below shows my certificate after completing all the assignments:
 
-![intro to machine learning](image/intro to machine learning.png)
+![Intro_to_Machine_Learning](image/intro to machine learning.png)

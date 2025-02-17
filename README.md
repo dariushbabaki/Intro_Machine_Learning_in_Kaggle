@@ -2,7 +2,11 @@ Kaggle Intro to Machine Learning — 2024 Solutions
 =====================
 
 -   [Course Link](https://www.kaggle.com/learn/intro-to-machine-learning)
+
 -   [My Certificate](https://www.kaggle.com/learn/certification/dariushbabaki/intro-to-machine-learning)
+
+
+## Table of Contents 
 
 1. [How Models Work](https://www.kaggle.com/dansbecker/how-models-work)   
 The first step if you're new to machine learning.
@@ -24,3 +28,9 @@ Using a more sophisticated machine learning algorithm.
 
 7. [Exercise: Machine Learning Competitions](intro_to_machine_learning/07-machine-learning-competitions.ipynb)  
 Enter the world of machine learning competitions to keep improving and see your progress.
+
+
+I finished this course on December 13, 2024.
+The picture below shows my certificate after completing all the assignments:
+
+![intro to machine learning](image/intro to machine learning.png)
